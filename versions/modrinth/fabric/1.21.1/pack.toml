@@ -1,12 +1,12 @@
-name = "Re-Console"
+name = "Re-Console Server Software"
 author = "omo50"
-version = "0.10.2"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d661032c37c58c1cd4f3336073a804973f2ead6ec732dac01ccc881568114d6b"
+hash = "0747b8310c9868f8a07a6eda494d440aabe1ef8f5f44f2c50be3cf18e0b1bd33"
 
 [versions]
 fabric = "0.16.10"
