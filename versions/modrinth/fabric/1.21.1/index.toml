@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8829b085ef87ddd7a4f74ae547f24c22a3ad307bc0b031b22a81e282976980ec"
+hash = "f1cd14f50ca02adbc84ad0b78a540f4486fd0e38ed601bb27575c94811e48b87"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
+hash = "9ee84bdf71ae7963fabc99e8bb44acb72334d281b02ddac913e25daf7b81c143"
 metafile = true
 
 [[files]]
 file = "mods/factory-api.pw.toml"
-hash = "82d3fa9db68d740771224fe4185ba0f378eec9b75cbb033ba3696e653cdd8e26"
+hash = "003493102d0ac05d22883a58d90ee11294b7a6679879a1cdbcdb7001b8e1e94b"
 metafile = true
 
 [[files]]
@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+hash = "8ecd67f8269c6317a0dc59edebcb9d6b3730f3adf26532e3a6c664804983c4ec"
 metafile = true
 
 [[files]]
 file = "mods/legacy4j.pw.toml"
-hash = "83de1a0e3dcde72b23b65c8cec0ef505d10424daa896f5b54cd1e38bd9b0732b"
+hash = "08fd93dadb9eda38b941fde6dfe7462f051262ccc054430f50d1567400b4fa62"
 metafile = true
 
 [[files]]
@@ -87,12 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
+hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+hash = "4ed6639a3ee7eb1806bcf14e8fc895ad134d11811b20245269441bb80d1828f7"
 metafile = true
 
 [[files]]
@@ -107,22 +107,22 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
+hash = "a031862c777660b5e446d10b7a8891b42c5542719268873f8e170b01edbc409d"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "3f2ce1c1eebbc21632b4cb111053585b61b377570676a7a0bbf5462cd1cb4c83"
+hash = "487495097475b59d277ee8268149f0dca03b725479521c3dd830a37163598c2e"
 metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+hash = "125171299b2cd518eb3a27bb421ff39e5580b1eac900c9498df1d1a3cdb7a865"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "aa0581977eb843b03a7355db30891609ff5af21daa694c0bde1921b4aad02a1b"
+hash = "c6ad7e4bfb33bf70a84cb966998fb2a0d589f003e8bcd840e48a8721d4460107"
 metafile = true
 
 [[files]]
